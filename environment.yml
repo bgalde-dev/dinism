@@ -1,11 +1,6 @@
-name: nhl-app
+name: dinism-app
 channels:
   - javascript
 dependencies:
   - python=3.8.5
   - flask
-  - requests
-  - psycopg2
-  - matplotlib
-  - numpy
-  - scikit-learn
